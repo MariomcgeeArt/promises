@@ -39,6 +39,10 @@
  *    predicgtion: 
  * The same order will happen bewcause of the event loop it hadds the fucntion on to the end of the executed operations list it will just take less time or (o)1
 1 * 
+
+
+Yes i was correct !
+
  *******************************************************************************
  */
 
